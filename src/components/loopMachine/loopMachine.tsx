@@ -61,7 +61,7 @@ const loopMachine = () => {
       },
     ];
 
-    let selectedSounds = []
+    let selectedSounds: void[] = []
 
     const [machineIsOn, handleMachineActive] = useState(true);
 
