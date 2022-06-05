@@ -1,0 +1,7 @@
+.pads-wrap {
+    display: flex;
+    justify-content: center;
+    width: 350px;
+    flex-wrap: wrap;
+    gap: 20px;
+}
